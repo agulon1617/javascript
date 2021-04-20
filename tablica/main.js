@@ -1,4 +1,4 @@
-let tab2 = [1, 2, 3, 4]; 
-console.log(tab2)
-tab2 = 'aga';
-console.log(tab2)
+let number =12;
+if (number>10) {
+    console.log("Podana liczba jest wieksza od 10")
+};
